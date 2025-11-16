@@ -14,7 +14,7 @@ City Lifestyle Segmentation Dataset
 By: Umut Uygurr
 https://www.kaggle.com/datasets/umuttuygurr/city-lifestyle-segmentation-dataset
 
-Below are the columns we used and their associated datatypes::
+Below are the columns we used and their associated datatypes:
 
 city_name                            →  object
 
