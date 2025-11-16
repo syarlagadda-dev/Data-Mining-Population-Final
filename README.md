@@ -16,25 +16,25 @@ https://www.kaggle.com/datasets/umuttuygurr/city-lifestyle-segmentation-dataset
 
 Below are the columns we used and their associated datatypes:
 
-city_name                            →  object
+  city_name                            →  object
 
-country                              →  object
+  country                              →  object
 
-population_density                   →  int64
+  population_density                   →  int64
 
-avg_income                           →  int64
+  avg_income                           →  int64
 
-internet_penetration                 →  float64
+  internet_penetration                 →  float64
 
-avg_rent                             →  int64
+  avg_rent                             →  int64
 
-air_quality_index                    →  int64
+  air_quality_index                    →  int64
 
-public_transport_score               →  float64
+  public_transport_score               →  float64
 
-happiness_score                      →  float64
+  happiness_score                      →  float64
 
-green_space_ratio                    →  float64
+  green_space_ratio                    →  float64
 
 -----Steps Taken-----
 
